@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">harkka4</string>
+    <string name="lat">lat</string>
+    <string name="lon">lon</string>
+    <string name="time">time</string>
+    <string name="location">location</string>
+    <string name="update">update</string>
+</resources>
